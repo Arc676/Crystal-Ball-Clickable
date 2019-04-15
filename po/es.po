@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Spanish translation for Crystal ball V1.0
+# Copyright (C) 2019 Arc676/Alessandro Vinciguerra
 # This file is distributed under the same license as the crystalball.arc676 package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Josu <josugg86@hotmail.com>, 2019.
 #
 msgid ""
 msgstr ""
